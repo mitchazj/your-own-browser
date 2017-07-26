@@ -13,5 +13,7 @@ Gulp is a pre-processor, we'll be using it to efficiently package our SCSS (sass
 CSS files contain rules that tell browsers how to display structured information.
 
 ## Step 2
+
 Clone this repository: `git clone https://github.com/mitchazj/your-own-browser/`
+
 Install the required packages: `npm install`
